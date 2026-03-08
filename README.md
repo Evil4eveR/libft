@@ -52,6 +52,6 @@ Once compiled, you can link the `libft.a` static library to other C projects. In
 
 ```bash
 gcc -Wall -Wextra -Werror -o my_project my_project.c -L. -lft
-
+```
 ### The project Source
 [libft.pdf](https://cdn.intra.42.fr/pdf/pdf/198329/en.subject.pdf)
